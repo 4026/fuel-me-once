@@ -1,10 +1,13 @@
 # Fuel me Once
-A Unity game of triangulation, wonky driving and oil extraction that I made in 72 hours for Ludum Dare 29 (theme: "Beneath the surface").
+A Unity game of triangulation, wonky driving and oil extraction that I made in 72 hours for [Ludum Dare 29](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=34604) (theme: "Beneath the surface").
 
 Drive a pickup truck about the desert! Strike Oil! Get Rich! Shop (awkwardly) for stuff! 
 
 An Xbox 360 controller will probably improve your experience with Fuel Me Once, but it's not required. 
 
+## Downloads / Builds
+- Download a Windows build from [here](https://files.4026.me.uk/fuel-me-once/FuelMeOnce.zip)
+- Or play a version in your browser [here](https://files.4026.me.uk/fuel-me-once/Web.html) (But note that Google Chrome blocks the Unity plugin on security grounds, so you'll need to use another browser to play).
 
 ## Controls
 
